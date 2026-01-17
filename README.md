@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=007ACC&height=200&section=header&text=Ali%20Hassan&fontSize=80&animation=fadeIn&fontAlignY=38" />
-
+<img src="https://avatars.githubusercontent.com/u/145183956?v=4" width="150" style="border-radius: 50%; border: 3px solid #007ACC;" />
+  
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+(2%2B+Years+Exp);React+•+Node.js+•+Prisma+Expert;Scalable+System+Architecture;Problem+Solver+by+Nature" alt="Typing SVG" /></h1>
 
   <p align="center">
