@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=007ACC&height=200&section=header&text=Ali%20Hassan&fontSize=80&animation=fadeIn&fontAlignY=38" />
 
-  <img src="https://avatars.githubusercontent.com/u/145183956?v=4" width="150" style="border-radius: 50%; border: 3px solid #007ACC;" />
-
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+(2%2B+Years+Exp);React+•+Node.js+•+Prisma+Expert;Scalable+System+Architecture;Problem+Solver+by+Nature" alt="Typing SVG" /></h1>
 
   <p align="center">
@@ -78,15 +76,15 @@ High-performing **Full-Stack Developer** with **2+ years of professional experie
 
 ---
 
-### 📊 Professional Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtechpk&show_icons=true&theme=default&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtechpk&layout=compact&theme=default&hide_border=false" width="48%" />
-</div>
+### 📊 Professional Metrics & Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xtechpk&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtechpk&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtechpk&theme=default&hide_border=false" width="97%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtechpk&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
