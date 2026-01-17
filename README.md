@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=007ACC&height=250&section=header&text=Ali%20Hassan&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=007ACC&height=200&section=header&text=Ali%20Hassan&fontSize=80&animation=fadeIn&fontAlignY=38" />
+
+  <img src="https://avatars.githubusercontent.com/u/145183956?v=4" width="150" style="border-radius: 50%; border: 3px solid #007ACC;" />
 
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+(2%2B+Years+Exp);React+•+Node.js+•+Prisma+Expert;Scalable+System+Architecture;Problem+Solver+by+Nature" alt="Typing SVG" /></h1>
 
@@ -76,28 +78,19 @@ High-performing **Full-Stack Developer** with **2+ years of professional experie
 
 ---
 
-### 📊 Professional Metrics & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xtechpk&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtechpk&layout=compact&theme=transparent&hide_border=true" />
-</p>
+### 📊 Professional Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xtechpk&show_icons=true&theme=default&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtechpk&layout=compact&theme=default&hide_border=false" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtechpk&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧠 Soft Skills & Values
-- **Clear Communication:** Ability to explain technical concepts to non-technical stakeholders.
-- **Self-Driven:** Constant learner—currently exploring **TypeScript** and **Docker** deeper.
-- **Time Management:** Successfully managing professional client work while maintaining academic progress.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtechpk&theme=default&hide_border=false" width="97%" />
+</div>
 
 ---
 
 ### 🤝 Connect & Hire
-I am currently looking for **Full-Stack roles (Remote/Hybrid)** and **Freelance projects**.
-
 - 💼 **LinkedIn:** [Ali Hassan](https://www.linkedin.com/in/ali-hassan-798a722b2/)
 - 📧 **Direct Mail:** [xtechpk1@gmail.com](mailto:xtechpk1@gmail.com)
 - 💬 **WhatsApp:** [+92 323 8130030](https://wa.me/923238130030)
