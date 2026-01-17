@@ -77,10 +77,6 @@ High-performing **Full-Stack Developer** with **2+ years of professional experie
 ---
 
 ### 📊 Professional Metrics & Activity
-<p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xtechpk&show_icons=true&theme=transparent&hide_border=true" /> -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtechpk&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtechpk&theme=transparent&hide_border=true" alt="GitHub Streak" />
